@@ -38,3 +38,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+# DailyConsciousness
+根據明朝袁了凡先生所著的家訓《了凡四訓》的功過格概念所建立的每日善念惡念紀錄APP
+
